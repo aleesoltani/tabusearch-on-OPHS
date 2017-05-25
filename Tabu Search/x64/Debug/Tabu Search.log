@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(281): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(294): warning C4129: ' ': unrecognized character escape sequence
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(284): warning C4101: 'spath': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(283): warning C4101: 'j': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(343): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(345): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(391): warning C4101: 'TRNum': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(389): warning C4101: 'newDist': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(574): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(578): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(487): warning C4101: 'current': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(620): warning C4101: 'deltaY': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(619): warning C4101: 'deltaX': unreferenced local variable
+  Tabu Search.vcxproj -> C:\Users\Ali\documents\visual studio 2015\Projects\Tabu Search\x64\Debug\Tabu Search.exe

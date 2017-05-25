@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(282): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(295): warning C4129: ' ': unrecognized character escape sequence
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(307): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(285): warning C4101: 'spath': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(284): warning C4101: 'j': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(344): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(346): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(348): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(392): warning C4101: 'TRNum': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(390): warning C4101: 'newDist': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(503): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(528): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(535): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(487): warning C4101: 'current': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(615): warning C4101: 'deltaY': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(614): warning C4101: 'deltaX': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(682): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: see declaration of 'wcscpy'
+c:\users\ali\documents\visual studio 2015\projects\tabu search\tabu search\main.cpp(785): warning C4018: '<': signed/unsigned mismatch
+  Tabu Search.vcxproj -> C:\Users\Ali\documents\visual studio 2015\Projects\Tabu Search\Debug\Tabu Search.exe
